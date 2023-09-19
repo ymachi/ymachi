@@ -6,9 +6,9 @@
 
 ## Projets
 
-- 🚀 Projet 1 : [MonBonCoin](lien-vers-le-projet)
-- 🚀 Projet 2 : [AtelierDakarois](lien-vers-le-projet)
-- 🚀 Projet 3 : [CVAminataDiawara](lien-vers-le-projet)
+- 🚀 Projet 1 : [MonBonCoin](https://github.com/ymachi/MonBonCoin)
+- 🚀 Projet 2 : [AtelierDakarois](https://github.com/ymachi/AtelierDakarois)
+- 🚀 Projet 3 : [CVAminataDiawara](https://github.com/ymachi/CVAminataDiawara)
 
 ## Objectifs
 
