@@ -19,7 +19,8 @@
 ##
 Pour me contacter :
 - 📧 : [amydiawara75@gmail.com]
-Vous pouvez également me suivre sur LinkedIn pour en savoir plus sur mon parcours et mes projets [Aminata Diawara](https://www.linkedin.com/in/aminata-diawara-92591b289/).
+  
+Vous pouvez également me suivre sur LinkedIn pour en savoir plus sur mon parcours et mes projets ([Aminata Diawara](https://www.linkedin.com/in/aminata-diawara-92591b289/)).
 
 
 🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾
