@@ -19,12 +19,12 @@
 ##
 Pour me contacter :
 - 📧 Email : [amydiawara75@gmail.com](mailto:amydiawara75@gmail.com)
-- - 🌐 LinkedIn : [Aminata Diawara](https://www.linkedin.com/in/aminata-diawara-92591b289/)
+- 🌐 LinkedIn : [Aminata Diawara](https://www.linkedin.com/in/aminata-diawara-92591b289/)
 
 #
-- ⚡ Fun fact: ymachi = Amy (mon surnom en verlan) + chi de Hanamichi Sakuragi de Slam Dunk 😼
+- ⚡ Fun fact : ymachi = Amy (mon surnom en verlan) + chi de Hanamichi Sakuragi de Slam Dunk 😼
 
-
+ 
 🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾🫶🏾
 
 <!--
