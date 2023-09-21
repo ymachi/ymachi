@@ -17,7 +17,7 @@
 - 📚 Continuer à apprendre et à maîtriser de nouvelles technologies
 
 ##
-Pour me contacter :
+## Pour me contacter :
 - 📧 Email : [amydiawara75@gmail.com](mailto:amydiawara75@gmail.com)
 - 🌐 LinkedIn : [Aminata Diawara](https://www.linkedin.com/in/aminata-diawara-92591b289/)
 
