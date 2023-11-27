@@ -1,7 +1,6 @@
 # Saluut 👋🏾
 🥷🏾 Une développeuse web junior à en devenir...
 - 🌱  En préparation d'un Bac+2 en développement Web et Web Mobile
-- 🏢  En recherche d'alternance à partir de février 2024
 - 💻  Compétences : HTML, CSS, JavaScript, Bootstrap, PHP, WordPress
 
 ## Projets
