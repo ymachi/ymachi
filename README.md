@@ -7,8 +7,7 @@
 
 - 🚀 Projet 1 : [MonBonCoin](https://github.com/ymachi/MonBonCoin)
 - 🚀 Projet 2 : [Le Théme d'Amy](https://unexpiated-vendors.000webhostapp.com/)
-- 🚀 Projet 3 : [L'Atelier Dakarois](https://ymachi.github.io/AtelierDakarois/)
-- 🚀 Projet 4 : [Portfolio](https://ymachi.github.io/CVAminataDiawara/)
+- 🚀 Projet 3 : [Portfolio](https://ymachi.github.io/CVAminataDiawara/)
 
 ## Objectifs
 
